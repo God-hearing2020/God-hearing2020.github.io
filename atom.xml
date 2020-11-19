@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天听のblog</title>
+  
+  <subtitle>天听</subtitle>
+  <link href="https://god-hearing2020.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://god-hearing2020.github.io/"/>
+  <updated>2020-11-19T06:38:50.519Z</updated>
+  <id>https://god-hearing2020.github.io/</id>
+  
+  <author>
+    <name>天 听</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue优化之代码层面的优化</title>
+    <link href="https://god-hearing2020.github.io/2020/11/19/vue-you-hua-zhi-dai-ma-ceng-mian-de-you-hua/"/>
+    <id>https://god-hearing2020.github.io/2020/11/19/vue-you-hua-zhi-dai-ma-ceng-mian-de-you-hua/</id>
+    <published>2020-11-19T06:38:00.000Z</published>
+    <updated>2020-11-19T06:38:50.519Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Vue 框架通过数据双向绑定和虚拟 DOM 技术，帮我们处理了前端开发中最脏最累的 DOM 操作部分， 我们不再需要去考虑如何操作 DOM 以及如何最高效地操作 DOM；但 Vue 项目中仍然存在项目首屏优化、Webpack</summary>
+        
+      
+    
+    
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/categories/Vue/"/>
+    
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聊天机器人</title>
+    <link href="https://god-hearing2020.github.io/2020/11/16/liao-tian-ji-qi-ren/"/>
+    <id>https://god-hearing2020.github.io/2020/11/16/liao-tian-ji-qi-ren/</id>
+    <published>2020-11-16T12:21:00.000Z</published>
+    <updated>2020-11-18T11:41:19.650Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么是聊天机器人&quot;&gt;&lt;a href=&quot;#什么是聊天机器人&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库自定义字段</title>
+    <link href="https://god-hearing2020.github.io/2020/11/15/shu-ju-ku-zi-ding-yi-zi-duan/"/>
+    <id>https://god-hearing2020.github.io/2020/11/15/shu-ju-ku-zi-ding-yi-zi-duan/</id>
+    <published>2020-11-15T14:01:00.000Z</published>
+    <updated>2020-11-18T11:41:19.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;在以往的数据库使用中，我们通常在一个数据库里操作某些表，如果有很多字段不同但目的相同的表，则需要建立很多的表来完成需求，这时候，可以通过在一个字段里添加多个数据来实现&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如，工单的</summary>
+        
+      
+    
+    
+    
+    <category term="mysql" scheme="https://god-hearing2020.github.io/categories/mysql/"/>
+    
+    
+    <category term="设计模式" scheme="https://god-hearing2020.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="mysql" scheme="https://god-hearing2020.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ABAC权限模型</title>
+    <link href="https://god-hearing2020.github.io/2020/11/15/abac-quan-xian-mo-xing/"/>
+    <id>https://god-hearing2020.github.io/2020/11/15/abac-quan-xian-mo-xing/</id>
+    <published>2020-11-15T13:41:00.000Z</published>
+    <updated>2020-11-18T11:41:19.640Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;ABAC权限模型，是基于属性的权限模型，ABAC通过动态计算一个或一组属性来满足某种条件来进行授权判断(可以编写简单的逻辑)，属性通常来说分为四类，用户属性(例如年龄，性别等)，环境属性(比如时间，地点)，操作属性(比如读取)，对象属性(如一篇文章</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="设计模式" scheme="https://god-hearing2020.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Restful风格接口</title>
+    <link href="https://god-hearing2020.github.io/2020/11/15/restful-feng-ge-jie-kou/"/>
+    <id>https://god-hearing2020.github.io/2020/11/15/restful-feng-ge-jie-kou/</id>
+    <published>2020-11-15T08:24:00.000Z</published>
+    <updated>2020-11-18T11:41:19.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么是restful风格API&quot;&gt;&lt;a href=&quot;#什么是restful风格API&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="设计模式" scheme="https://god-hearing2020.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工厂模式</title>
+    <link href="https://god-hearing2020.github.io/2020/11/15/gong-han-mo-shi/"/>
+    <id>https://god-hearing2020.github.io/2020/11/15/gong-han-mo-shi/</id>
+    <published>2020-11-15T04:10:00.000Z</published>
+    <updated>2020-11-18T12:24:11.408Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么是工厂模式&quot;&gt;&lt;a href=&quot;#什么是工厂模式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="设计模式" scheme="https://god-hearing2020.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聊天室</title>
+    <link href="https://god-hearing2020.github.io/2020/11/12/liao-tian-shi/"/>
+    <id>https://god-hearing2020.github.io/2020/11/12/liao-tian-shi/</id>
+    <published>2020-11-12T04:05:00.000Z</published>
+    <updated>2020-11-18T11:41:19.650Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近，在写一个简单的基于websocket和django的聊天室，来分享一下我这个过程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;首先是思路，聊天室说起来简单，但实际操作起来完全不是那么回事了，除了简单的连接之外，完全没有一点头绪&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;把聊天室的功</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>验证码系列(邮箱、短信)</title>
+    <link href="https://god-hearing2020.github.io/2020/11/10/yan-zheng-ma-xi-lie/"/>
+    <id>https://god-hearing2020.github.io/2020/11/10/yan-zheng-ma-xi-lie/</id>
+    <published>2020-11-10T13:38:00.000Z</published>
+    <updated>2020-11-18T11:41:19.654Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;python3利用腾讯云发送短信&quot;&gt;&lt;a href=&quot;#python3利用腾讯云发送短信&quot; class=&quot;headerlink&quot; title=&quot;python3利用腾讯云发送短信&quot;&gt;&lt;/a&gt;&lt;code&gt;python3&lt;/code&gt;利用腾讯云发送短信&lt;/h2&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WebSocket</title>
+    <link href="https://god-hearing2020.github.io/2020/11/09/websocket/"/>
+    <id>https://god-hearing2020.github.io/2020/11/09/websocket/</id>
+    <published>2020-11-09T13:09:00.000Z</published>
+    <updated>2020-11-18T11:41:19.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-什么是websocket&quot;&gt;&lt;a href=&quot;#1-什么是websocket&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/categories/Django/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WebHook机制</title>
+    <link href="https://god-hearing2020.github.io/2020/11/07/webhook-ji-zhi/"/>
+    <id>https://god-hearing2020.github.io/2020/11/07/webhook-ji-zhi/</id>
+    <published>2020-11-07T12:00:00.000Z</published>
+    <updated>2020-11-18T11:41:19.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-什么是web-hook&quot;&gt;&lt;a href=&quot;#1-什么是web-hook&quot; class=&quot;headerlink&quot; title=&quot;1.什么是web hook&quot;&gt;&lt;/a&gt;1.什么是&lt;code&gt;web</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="WebHook" scheme="https://god-hearing2020.github.io/tags/WebHook/"/>
+    
+    <category term="mysql" scheme="https://god-hearing2020.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python数据结构与算法</title>
+    <link href="https://god-hearing2020.github.io/2020/11/05/python-shu-ju-jie-gou-yu-suan-fa/"/>
+    <id>https://god-hearing2020.github.io/2020/11/05/python-shu-ju-jie-gou-yu-suan-fa/</id>
+    <published>2020-11-05T13:36:00.000Z</published>
+    <updated>2020-11-18T11:41:19.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;数据结构&quot;&gt;&lt;a href=&quot;#数据结构&quot; class=&quot;headerlink&quot; title=&quot;数据结构&quot;&gt;&lt;/a&gt;数据结构&lt;/h2&gt;&lt;h3 id=&quot;物理结构&quot;&gt;&lt;a href=&quot;#物理结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="算法" scheme="https://god-hearing2020.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Celery</title>
+    <link href="https://god-hearing2020.github.io/2020/11/03/celery/"/>
+    <id>https://god-hearing2020.github.io/2020/11/03/celery/</id>
+    <published>2020-11-03T14:25:00.000Z</published>
+    <updated>2020-11-18T11:41:19.642Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;介绍：&quot;&gt;&lt;a href=&quot;#介绍：&quot; class=&quot;headerlink&quot; title=&quot;介绍：&quot;&gt;&lt;/a&gt;介绍：&lt;/h2&gt;&lt;h3 id=&quot;1-1-celery应用举例&quot;&gt;&lt;a href=&quot;#1-1-celery应用举例&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ACL与RBAC访问权限模型</title>
+    <link href="https://god-hearing2020.github.io/2020/11/02/acl-yu-rbac/"/>
+    <id>https://god-hearing2020.github.io/2020/11/02/acl-yu-rbac/</id>
+    <published>2020-11-02T11:37:00.000Z</published>
+    <updated>2020-11-18T11:41:19.641Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;什么是ACL&quot;&gt;&lt;a href=&quot;#什么是ACL&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="设计模式" scheme="https://god-hearing2020.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DRF操作</title>
+    <link href="https://god-hearing2020.github.io/2020/11/01/drf-cao-zuo/"/>
+    <id>https://god-hearing2020.github.io/2020/11/01/drf-cao-zuo/</id>
+    <published>2020-11-01T12:27:00.000Z</published>
+    <updated>2020-11-18T11:41:19.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-DRF初始化&quot;&gt;&lt;a href=&quot;#1-DRF初始化&quot; class=&quot;headerlink&quot; title=&quot;1.DRF初始化&quot;&gt;&lt;/a&gt;1.DRF初始化&lt;/h3&gt;&lt;p&gt;DRF六中常用操作&lt;/p&gt;
+&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/categories/Django/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>axios的封装</title>
+    <link href="https://god-hearing2020.github.io/2020/11/01/axios-feng-zhuang/"/>
+    <id>https://god-hearing2020.github.io/2020/11/01/axios-feng-zhuang/</id>
+    <published>2020-11-01T12:25:00.000Z</published>
+    <updated>2020-11-18T11:41:19.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;axios的封装&quot;&gt;&lt;a href=&quot;#axios的封装&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="axios" scheme="https://god-hearing2020.github.io/categories/axios/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/tags/Vue/"/>
+    
+    <category term="axios" scheme="https://god-hearing2020.github.io/tags/axios/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis中pipline的使用</title>
+    <link href="https://god-hearing2020.github.io/2020/11/01/redis-de-pipline-shi-yong/"/>
+    <id>https://god-hearing2020.github.io/2020/11/01/redis-de-pipline-shi-yong/</id>
+    <published>2020-11-01T12:20:00.000Z</published>
+    <updated>2020-11-18T11:41:19.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;redis&lt;strong&gt;发送数据原理&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Redis是建立在TCP协议基础上的CS架构，客户端client对redis</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://god-hearing2020.github.io/categories/Redis/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="redis" scheme="https://god-hearing2020.github.io/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>倒排索引与全文检索</title>
+    <link href="https://god-hearing2020.github.io/2020/10/30/dao-pai-suo-yin-yu-quan-wen-jian-suo/"/>
+    <id>https://god-hearing2020.github.io/2020/10/30/dao-pai-suo-yin-yu-quan-wen-jian-suo/</id>
+    <published>2020-10-30T13:40:00.000Z</published>
+    <updated>2020-11-18T11:41:19.647Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;倒排索引&quot;&gt;&lt;a href=&quot;#倒排索引&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+    <category term="全文检索" scheme="https://god-hearing2020.github.io/tags/%E5%85%A8%E6%96%87%E6%A3%80%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ModelViewSet</title>
+    <link href="https://god-hearing2020.github.io/2020/10/30/modelviewset/"/>
+    <id>https://god-hearing2020.github.io/2020/10/30/modelviewset/</id>
+    <published>2020-10-30T12:41:00.000Z</published>
+    <updated>2020-11-18T11:41:19.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ModelViewSet是封装度最高的DRF的视图类。包含了怎删改查中的所有接口操作。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;它继承自&lt;code&gt;GenericViewSet&lt;/code&gt;、ListModel</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://god-hearing2020.github.io/tags/python/"/>
+    
+    <category term="Django" scheme="https://god-hearing2020.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue组件</title>
+    <link href="https://god-hearing2020.github.io/2020/10/30/vue-zu-jian/"/>
+    <id>https://god-hearing2020.github.io/2020/10/30/vue-zu-jian/</id>
+    <published>2020-10-30T12:28:00.000Z</published>
+    <updated>2020-11-19T01:50:53.804Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-组件定义&quot;&gt;&lt;a href=&quot;#1-组件定义&quot; class=&quot;headerlink&quot; title=&quot;1.组件定义&quot;&gt;&lt;/a&gt;1.组件定义&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;定义组件并引用 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;父组件向子组件传值</summary>
+        
+      
+    
+    
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/categories/Vue/"/>
+    
+    
+    <category term="Vue" scheme="https://god-hearing2020.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git</title>
+    <link href="https://god-hearing2020.github.io/2020/10/30/git-ji-ben-cao-zuo/"/>
+    <id>https://god-hearing2020.github.io/2020/10/30/git-ji-ben-cao-zuo/</id>
+    <published>2020-10-30T12:27:00.000Z</published>
+    <updated>2020-11-18T11:41:19.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;配置全局：&quot;&gt;&lt;a href=&quot;#配置全局：&quot; class=&quot;headerlink&quot; title=&quot;配置全局：&quot;&gt;&lt;/a&gt;配置全局：&lt;/h2&gt;&lt;pre class=&quot; language-python&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://god-hearing2020.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://god-hearing2020.github.io/tags/Git/"/>
+    
+    <category term="Markdown" scheme="https://god-hearing2020.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
